@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 ## 💡 Projects Highlight
 | Project Name                              | Description |
 |--------------------------------|--------------------------------------|
-| [MadPin](https://github.com/yoon-woong-gi/MadPin) | Image-sharing platform like Pinterest (Django, SQLite) |
-| [Alpha-O](https://github.com/yoon-woong-gi/Alpha-O) | Gomoku AI game (Python, PyQt, Alpha-Beta Pruning) |
-| [Crypto Trading Bot](https://github.com/yoon-woong-gi/CryptoTradingBot) | Automated trading system using Upbit API |
-| [Campus Navigator](https://github.com/yoon-woong-gi/CampusNavigator) | Shortest path finder for university buildings (Java, Dijkstra) |
+| [MadPin](https://github.com/yoon-woong-gi/Madison_Pin_Board) | Image-sharing platform like Pinterest (Django, SQLite) |
+| [Alpha-O](https://github.com/TaeYeon22-sudo/AlphaO) | Gomoku AI game (Python, PyQt, Alpha-Beta Pruning) |
+| [Crypto Trading Bot](https://github.com/yoon-woong-gi/cripto_auto) | Automated trading system using Upbit API |
+| [Campus Navigator](https://github.com/yoon-woong-gi/Campus-Navigator) | Shortest path finder for university buildings (Java, Dijkstra) |
 
 ---
 
