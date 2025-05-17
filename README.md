@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 #### Frameworks & Libraries
 <p>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyQt-41CD52?logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/-RESTful%20APIs-005571?logo=postman&logoColor=white"/>
