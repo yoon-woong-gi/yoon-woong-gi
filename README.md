@@ -70,11 +70,10 @@ Here are some ideas to get you started:
 ## 💡 Projects Highlight
 | Project Name                              | Description |
 |--------------------------------|--------------------------------------|
-| [Alpha-O](https://github.com/TaeYeon22-sudo/AlphaO) | Gomoku AI game (Python, PyQt, Alpha-Beta Pruning) |
+| [Alpha-O](https://github.com/TaeYeon22-sudo/AlphaO) | Gomoku AI game (Python, MiniMax, MCTS, Deep Learning) |
 | [MadPin](https://github.com/yoon-woong-gi/Madison_Pin_Board) | Image-sharing platform like Pinterest (Django, SQLite) |
 | [Crypto Trading Bot](https://github.com/yoon-woong-gi/cripto_auto) | Automated trading system using Upbit API |
 | [Campus Navigator](https://github.com/yoon-woong-gi/Campus-Navigator) | Shortest path finder for university buildings (Java, Dijkstra) |
-
 ---
 
 ## 📫 Let's Connect!
